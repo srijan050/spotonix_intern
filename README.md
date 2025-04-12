@@ -44,9 +44,9 @@ Spotonix, Inc. specializes in transforming business data into accessible natural
 
 The comparative analysis provides strong evidence that the DSPy framework offers a superior approach for handling complex business intelligence queries compared to the OpenAI+Instructor combination. DSPy delivers more accurate and complete results using the same base LLM and computational resources, making it a compelling alternative for Spotonix to enhance their natural language query analysis capabilities.
 
-*(Detailed results and code are available on the project's GitHub repository as mentioned in the report.)*
+*(Detailed results and code are available on the project's GitHub repository.)*
 
-## References Mentioned in Report
+## References
 
 * Stanford NLP - DSPy
 * OpenAI API
